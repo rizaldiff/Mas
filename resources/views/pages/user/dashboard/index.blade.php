@@ -151,7 +151,7 @@
                     </div>
                 </div>
             </div>
-        
+
             <div class="my-3 p-3 bg-body rounded shadow-sm p-5">
                 <h6 class="border-bottom pb-2 mb-0">Semua Laporan</h6>
                 @if(count($pengaduan) > 0)
@@ -198,7 +198,7 @@
               <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
                 <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
             </a>
-            <span class="mb-3 mb-md-0 text-muted mx-auto">&copy; 2022 KELOMPOK 6 WAD | By : Bayu Satrio Trilaksono</span>
+            <span class="mb-3 mb-md-0 text-muted mx-auto">&copy; 2023 KELOMPOK RPL SILAMAS</span>
           </div>
 
           <ul class="nav col-md-4 justify-content-end list-unstyled d-flex mx-auto">

@@ -62,7 +62,7 @@
             <div class="d-flex align-items-center p-3 my-3 text-white bg-purple rounded shadow-sm">
                 <img class="me-3" src="{{ asset('assets/img/logo/SILAMAS.png') }}" alt="" width="48" height="38">
                 <div class="lh-1">
-                  <h1 class="h6 mb-0 text-dark lh-1">Detail Laporan 
+                  <h1 class="h6 mb-0 text-dark lh-1">Detail Laporan
                     @if ($aduan->status == "Pending")
                     <span class=" badge text-bg-danger fw-bold">{{ $aduan->status }}</span>
                     @elseif ($aduan->status == "Processing")
@@ -166,10 +166,10 @@
                                 <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
                                     <input type="radio" class="btn-check" value="Sangat Puas" name="feedback" id="btnradio1" checked>
                                     <label class="btn btn-outline-primary" for="btnradio1">Sangat Puas</label>
-                                    
+
                                     <input type="radio" class="btn-check" value="Puas"  name="feedback" id="btnradio2">
                                     <label class="btn btn-outline-primary" for="btnradio2">Puas</label>
-                                    
+
                                     <input type="radio" class="btn-check" value="Tidak Puas" name="feedback" id="btnradio3">
                                     <label class="btn btn-outline-primary" for="btnradio3">Tidak Puas</label>
                                 </div><br>
@@ -182,7 +182,7 @@
                     </div>
                 </center>
             </div>
-            
+
         </div>
     </section>
     {{-- Footer --}}
@@ -191,7 +191,7 @@
               <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
                 <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
             </a>
-            <span class="mb-3 mb-md-0 text-muted mx-auto">&copy; 2022 KELOMPOK 6 WAD | By : Bayu Satrio Trilaksono</span>
+            <span class="mb-3 mb-md-0 text-muted mx-auto">&copy; 2023 KELOMPOK RPL SILAMAS</span>
           </div>
 
           <ul class="nav col-md-4 justify-content-end list-unstyled d-flex mx-auto">
