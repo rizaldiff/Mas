@@ -122,7 +122,7 @@
 
                                     <button type="submit"
                                     class="mt-4 px-4 py-2 text-sm font-medium btn btn-primary d-flex ms-auto">
-                                    Edit
+                                    Submit
                                     </button>
                             </form>
                             <!-- End Search Form -->
